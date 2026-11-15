@@ -1,0 +1,19 @@
+{
+  "id": "mock-vendor-portal",
+  "name": "Dockside Supply",
+  "mark": "DS",
+  "tagline": "Every invoice finds its berth.",
+  "colors": {
+    "background": "#eaf6f7",
+    "surface": "#ffffff",
+    "text": "#16434b",
+    "accent": "#006373"
+  },
+  "typography": {
+    "display": "Tahoma, sans-serif",
+    "body": "Verdana, sans-serif",
+    "tracking": ".035em"
+  },
+  "style": "logistics",
+  "radius": 10
+}
